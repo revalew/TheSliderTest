@@ -1,2 +1,2 @@
 # TheSliderTest
-Basic Game mede with Unity for WebGL
+Basic Game made with Unity for WebGL
